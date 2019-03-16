@@ -1,19 +1,9 @@
-[Fri Mar 15 10:40:25.252396 2019] [ssl:warn] [pid 3956:tid 612] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
-[Fri Mar 15 10:40:25.351638 2019] [ssl:warn] [pid 3956:tid 612] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
-[Fri Mar 15 10:40:25.428400 2019] [mpm_winnt:notice] [pid 3956:tid 612] AH00455: Apache/2.4.38 (Win64) OpenSSL/1.1.1b PHP/7.3.2 configured -- resuming normal operations
-[Fri Mar 15 10:40:25.428903 2019] [mpm_winnt:notice] [pid 3956:tid 612] AH00456: Apache Lounge VC15 Server built: Feb 28 2019 11:40:54
-[Fri Mar 15 10:40:25.428903 2019] [core:notice] [pid 3956:tid 612] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
-[Fri Mar 15 10:40:25.448805 2019] [mpm_winnt:notice] [pid 3956:tid 612] AH00418: Parent: Created child process 6868
-[Fri Mar 15 10:40:26.318518 2019] [ssl:warn] [pid 6868:tid 624] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
-[Fri Mar 15 10:40:26.414575 2019] [ssl:warn] [pid 6868:tid 624] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
-[Fri Mar 15 10:40:26.470961 2019] [mpm_winnt:notice] [pid 6868:tid 624] AH00354: Child: Starting 150 worker threads.
-[Fri Mar 15 10:40:41.802600 2019] [mpm_winnt:crit] [pid 6868:tid 624] AH02538: Child: Parent process exited abruptly. Child process is ending
-[Fri Mar 15 10:41:56.275077 2019] [ssl:warn] [pid 7420:tid 612] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
-[Fri Mar 15 10:41:56.363710 2019] [ssl:warn] [pid 7420:tid 612] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
-[Fri Mar 15 10:41:56.409751 2019] [mpm_winnt:notice] [pid 7420:tid 612] AH00455: Apache/2.4.38 (Win64) OpenSSL/1.1.1b PHP/7.3.2 configured -- resuming normal operations
-[Fri Mar 15 10:41:56.409751 2019] [mpm_winnt:notice] [pid 7420:tid 612] AH00456: Apache Lounge VC15 Server built: Feb 28 2019 11:40:54
-[Fri Mar 15 10:41:56.409751 2019] [core:notice] [pid 7420:tid 612] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
-[Fri Mar 15 10:41:56.432190 2019] [mpm_winnt:notice] [pid 7420:tid 612] AH00418: Parent: Created child process 6092
-[Fri Mar 15 10:41:57.007662 2019] [ssl:warn] [pid 6092:tid 620] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
-[Fri Mar 15 10:41:57.077607 2019] [ssl:warn] [pid 6092:tid 620] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
-[Fri Mar 15 10:41:57.126251 2019] [mpm_winnt:notice] [pid 6092:tid 620] AH00354: Child: Starting 150 worker threads.
+[Sat Mar 16 15:59:36.425709 2019] [ssl:warn] [pid 9500:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 16 15:59:36.825450 2019] [ssl:warn] [pid 9500:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 16 15:59:36.940359 2019] [mpm_winnt:notice] [pid 9500:tid 584] AH00455: Apache/2.4.38 (Win64) OpenSSL/1.1.1b PHP/7.3.2 configured -- resuming normal operations
+[Sat Mar 16 15:59:36.940359 2019] [mpm_winnt:notice] [pid 9500:tid 584] AH00456: Apache Lounge VC15 Server built: Feb 28 2019 11:40:54
+[Sat Mar 16 15:59:36.940359 2019] [core:notice] [pid 9500:tid 584] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Mar 16 15:59:37.105784 2019] [mpm_winnt:notice] [pid 9500:tid 584] AH00418: Parent: Created child process 10768
+[Sat Mar 16 15:59:37.955613 2019] [ssl:warn] [pid 10768:tid 608] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 16 15:59:38.085730 2019] [ssl:warn] [pid 10768:tid 608] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 16 15:59:38.115687 2019] [mpm_winnt:notice] [pid 10768:tid 608] AH00354: Child: Starting 150 worker threads.
